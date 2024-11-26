@@ -25,7 +25,7 @@ Uma API Flask para analisar currículos em PDF, com integração com MongoDB Atl
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/mariagomeess/back-residencia.git
+   git clone https://github.com/mariagomeess/residencia.git
    cd residencia-main
 
 2. Crie um ambiente virtual e instale as dependências:
